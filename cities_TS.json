@@ -1,0 +1,282 @@
+[
+    {
+        "city_code": "HYD",
+        "region_code": "HYD",
+        "sub_region_code": "HYD",
+        "region_slug": "hyderabad",
+        "latitude": "17.385044",
+        "longitude": "78.486671"
+    },
+    {
+        "city_code": "WAR",
+        "region_code": "WAR",
+        "sub_region_code": "WAR",
+        "region_slug": "warangal",
+        "latitude": "18.000055",
+        "longitude": "79.588167"
+    },
+    {
+        "city_code": "NIZA",
+        "region_code": "NIZA",
+        "sub_region_code": "NIZA",
+        "region_slug": "nizamabad",
+        "latitude": "18.6833",
+        "longitude": "78.1"
+    },
+    {
+        "city_code": "KHAM",
+        "region_code": "KHAM",
+        "sub_region_code": "KHAM",
+        "region_slug": "khammam",
+        "latitude": "17.25",
+        "longitude": "80.15"
+    },
+    {
+        "city_code": "KARIM",
+        "region_code": "KARIM",
+        "sub_region_code": "KARIM",
+        "region_slug": "karimnagar",
+        "latitude": "18.5962",
+        "longitude": "79.2902"
+    },
+    {
+        "city_code": "RAMA",
+        "region_code": "RAMA",
+        "sub_region_code": "RAMA",
+        "region_slug": "ramagundam",
+        "latitude": "17.3000",
+        "longitude": "79.4500"
+    },
+    {
+        "city_code": "MAHA",
+        "region_code": "MAHA",
+        "sub_region_code": "MAHA",
+        "region_slug": "mahabubnagar",
+        "latitude": "16.6000",
+        "longitude": "77.9833"
+    },
+    {
+        "city_code": "NALK",
+        "region_code": "NALK",
+        "sub_region_code": "NALK",
+        "region_slug": "nalgonda",
+        "latitude": "17.1883",
+        "longitude": "79.2"
+    },
+    {
+        "city_code": "ADIL",
+        "region_code": "ADIL",
+        "sub_region_code": "ADIL",
+        "region_slug": "adilabad",
+        "latitude": "19.6667",
+        "longitude": "78.5333"
+    },
+    {
+        "city_code": "SURY",
+        "region_code": "SURY",
+        "sub_region_code": "SURY",
+        "region_slug": "suryapet",
+        "latitude": "17.1353",
+        "longitude": "79.6334"
+    },
+    {
+        "city_code": "MRGD",
+        "region_code": "MRGD",
+        "sub_region_code": "MRGD",
+        "region_slug": "miryalaguda",
+        "latitude": "16.8753",
+        "longitude": "79.566"
+    },
+    {
+        "city_code": "SDDP",
+        "region_code": "SDDP",
+        "sub_region_code": "SDDP",
+        "region_slug": "siddipet",
+        "latitude": "18.1019",
+        "longitude": "78.8521"
+    },
+    {
+        "city_code": "JGTL",
+        "region_code": "JGTL",
+        "sub_region_code": "JGTL",
+        "region_slug": "jagtial",
+        "latitude": "18.7909",
+        "longitude": "78.9119"
+    },
+    {
+        "city_code": "MANC",
+        "region_code": "MANC",
+        "sub_region_code": "MANC",
+        "region_slug": "mancherial",
+        "latitude": "18.8756",
+        "longitude": "79.4591"
+    },
+    {
+        "city_code": "ARMO",
+        "region_code": "ARMO",
+        "sub_region_code": "ARMO",
+        "region_slug": "armoor",
+        "latitude": "18.7895",
+        "longitude": "78.2893"
+    },
+    {
+        "city_code": "NIRM",
+        "region_code": "NIRM",
+        "sub_region_code": "NIRM",
+        "region_slug": "nirmal",
+        "latitude": "19.0667",
+        "longitude": "78.5833"
+    },
+    {
+        "city_code": "SIRC",
+        "region_code": "SIRC",
+        "sub_region_code": "SIRC",
+        "region_slug": "sircilla",
+        "latitude": "18.4042",
+        "longitude": "78.8305"
+    },
+    {
+        "city_code": "KMRD",
+        "region_code": "KMRD",
+        "sub_region_code": "KMRD",
+        "region_slug": "kamareddy",
+        "latitude": "18.324",
+        "longitude": "78.3343"
+    },
+    {
+        "city_code": "PLWA",
+        "region_code": "PLWA",
+        "sub_region_code": "PLWA",
+        "region_slug": "palwancha",
+        "latitude": "18.3198",
+        "longitude": "78.4359"
+    },
+    {
+        "city_code": "KTGM",
+        "region_code": "KTGM",
+        "sub_region_code": "KTGM",
+        "region_slug": "kothagudem",
+        "latitude": "17.556",
+        "longitude": "80.6144"
+    },
+    {
+        "city_code": "BODH",
+        "region_code": "BODH",
+        "sub_region_code": "BODH",
+        "region_slug": "bodhan",
+        "latitude": "18.6794",
+        "longitude": "77.8767"
+    },
+    {
+        "city_code": "SARE",
+        "region_code": "SARE",
+        "sub_region_code": "SARE",
+        "region_slug": "sangareddy",
+        "latitude": "17.6194",
+        "longitude": "78.0823"
+    },
+    {
+        "city_code": "METT",
+        "region_code": "METT",
+        "sub_region_code": "METT",
+        "region_slug": "metpally",
+        "latitude": "18.279756",
+        "longitude": "79.579837"
+    },
+    {
+        "city_code": "ZAGE",
+        "region_code": "ZAGE",
+        "sub_region_code": "ZAGE",
+        "region_slug": "zaheerabad",
+        "latitude": "17.6748",
+        "longitude": "77.6164"
+    },
+    {
+        "city_code": "KODA",
+        "region_code": "KODA",
+        "sub_region_code": "KODA",
+        "region_slug": "kodad",
+        "latitude": "16.9951",
+        "longitude": "79.972"
+    },
+    {
+        "city_code": "GADW",
+        "region_code": "GADW",
+        "sub_region_code": "GADW",
+        "region_slug": "gadwal",
+        "latitude": "16.2337",
+        "longitude": "77.8081"
+    },
+    {
+        "city_code": "WANA",
+        "region_code": "WANA",
+        "sub_region_code": "WANA",
+        "region_slug": "wanaparthy",
+        "latitude": "16.362514",
+        "longitude": "78.063183"
+    },
+    {
+        "city_code": "VKBD",
+        "region_code": "VKBD",
+        "sub_region_code": "VKBD",
+        "region_slug": "vikarabad",
+        "latitude": "17.3364",
+        "longitude": "77.9048"
+    },
+    {
+        "city_code": "JNGN",
+        "region_code": "JNGN",
+        "sub_region_code": "JNGN",
+        "region_slug": "jangaon",
+        "latitude": "17.7288",
+        "longitude": "79.1605"
+    },
+    {
+        "city_code": "BHDR",
+        "region_code": "BHDR",
+        "sub_region_code": "BHDR",
+        "region_slug": "bhadrachalam",
+        "latitude": "17.6688",
+        "longitude": "80.8936"
+    },
+    {
+        "city_code": "MDAK",
+        "region_code": "MDAK",
+        "sub_region_code": "MDAK",
+        "region_slug": "medak",
+        "latitude": "17.8716",
+        "longitude": "78.1108"
+    },
+    {
+        "city_code": "HUZU",
+        "region_code": "HUZU",
+        "sub_region_code": "HUZU",
+        "region_slug": "huzurnagar",
+        "latitude": "16.8983",
+        "longitude": "79.0917"
+    },
+    {
+        "city_code": "BHUV",
+        "region_code": "BHUV",
+        "sub_region_code": "BHUV",
+        "region_slug": "bhuvanagiri",
+        "latitude": "11.4459",
+        "longitude": "79.653"
+    },
+    {
+        "city_code": "BHAN",
+        "region_code": "BHAN",
+        "sub_region_code": "BHAN",
+        "region_slug": "bhainsa",
+        "latitude": "19.1031",
+        "longitude": "77.9653"
+    },
+    {
+        "city_code": "NASP",
+        "region_code": "NASP",
+        "sub_region_code": "NASP",
+        "region_slug": "narsampet",
+        "latitude": "17.9281",
+        "longitude": "79.8945"
+    }
+]
